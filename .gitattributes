@@ -1,3 +1,4 @@
-*.inc      linguist-generated
-.mulle/    linguist-generated
-.vscode/   linguist-generated
+*.inc         linguist-generated
+.mulle/       linguist-generated
+.vscode/      linguist-generated
+cmake/share/  linguist-generated
